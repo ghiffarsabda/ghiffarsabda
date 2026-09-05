@@ -79,6 +79,10 @@ A software engineer focused on building practical, high-leverage developer tools
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghiffarsabda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ghiffar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghiffarsabda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ghiffarsabda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ghiffar's GitHub Stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ghiffarsabda&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ghiffarsabda&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
