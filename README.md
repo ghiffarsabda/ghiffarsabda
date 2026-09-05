@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there, I'm Ghiffar Sabda 👋
 
 **Developer Tooling • Terminal Utilities • AI Agent Workflows**
@@ -9,8 +7,6 @@ A software engineer focused on building practical, high-leverage developer tools
 [Website](https://github.com/ghiffarsabda) • [Email](mailto:ghiffarsabda@gmail.com) • [Repositories](https://github.com/ghiffarsabda?tab=repositories)
 
 ---
-
-</div>
 
 ### 🚀 Featured Projects
 
